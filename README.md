@@ -6,7 +6,7 @@ binary:
 - [x] be01
 - [x] be02
 - [x] bm01
-- [ ] bm02
+- [x] bm02
 - [ ] bm03
 - [ ] bh01
 - [ ] bx01
