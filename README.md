@@ -8,7 +8,9 @@ binary:
 - [x] bm01
 - [x] bm02
 - [x] bm03
-- [ ] bh01
+- [x] bh01
 - [ ] bx01
-- [ ] bx01
-TBD:
+forensics:
+- [ ] TBD
+
+Please message me if you find an error, improvement, or missing writeup.
