@@ -19,6 +19,9 @@ forensics:
 - [x] fm01
 - [x] fm02
 - [x] fm03
-- [ ] fh01
+- [x] fh01
+
+crypto:
+- [ ] TBD
 
 Please message me if you find an error, improvement, or a missing writeup.
