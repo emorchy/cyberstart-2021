@@ -9,8 +9,16 @@ binary:
 - [x] bm02
 - [x] bm03
 - [x] bh01
-- [ ] bx01
-forensics:
-- [ ] TBD
+- [ ] bx01 (unsolved)
 
-Please message me if you find an error, improvement, or missing writeup.
+forensics:
+- [x] fe01
+- [ ] fe02
+- [ ] fe03
+- [ ] fe04
+- [ ] fm01
+- [ ] fm02
+- [ ] fm03
+- [ ] fh01
+
+Please message me if you find an error, improvement, or a missing writeup.
