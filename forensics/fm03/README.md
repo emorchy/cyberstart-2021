@@ -45,6 +45,9 @@ Thankfully, the "Y" option has a number "3" that can test all the Y options, pre
 $ hashcat -m 13723 --force dir_volume 1000-most-common-passwords.txt
 --snip--
 dir_volume:redwings                              
+                                                 
+Session..........: hashcat
+Status...........: Cracked
 --snip--
 ```
 
