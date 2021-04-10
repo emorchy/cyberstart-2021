@@ -15,7 +15,7 @@ forensics:
 - [x] fe01
 - [x] fe02
 - [x] fe03
-- [ ] fe04
+- [x] fe04
 - [ ] fm01
 - [ ] fm02
 - [ ] fm03
