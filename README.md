@@ -18,7 +18,7 @@ forensics:
 - [x] fe04
 - [x] fm01
 - [x] fm02
-- [ ] fm03
+- [x] fm03
 - [ ] fh01
 
 Please message me if you find an error, improvement, or a missing writeup.
