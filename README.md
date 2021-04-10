@@ -14,7 +14,7 @@ binary:
 forensics:
 - [x] fe01
 - [x] fe02
-- [ ] fe03
+- [x] fe03
 - [ ] fe04
 - [ ] fm01
 - [ ] fm02
