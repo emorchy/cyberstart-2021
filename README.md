@@ -22,6 +22,8 @@ forensics:
 - [x] fh01
 
 crypto:
+- [x] cm01
+- [x] cm02
 - [ ] TBD
 
 Please message me if you find an error, improvement, or a missing writeup.
